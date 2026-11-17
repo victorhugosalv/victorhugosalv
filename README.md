@@ -10,7 +10,7 @@ Gosto de construir de ponta a ponta, do banco de dados à tela que a pessoa usa,
 
 ### [Docenda](https://github.com/victorhugosalv/docenda) · nov/2026 – atual
 
-Plataforma web para criar e avaliar planos de aula de Computação com IA. Em desenvolvimento: requisitos com privacidade desde a concepção (LGPD) e arquitetura concluída em 11 decisões (ADRs).
+Plataforma web para criar e avaliar planos de aula de Computação com IA. Em desenvolvimento: requisitos com privacidade desde a concepção (LGPD) e arquitetura concluída em 14 decisões (ADRs).
 Stack planejada: TypeScript, Node.js, React, PostgreSQL, Docker, API da Anthropic.
 
 ### Rinha do Campus IV · abr/2026 – mai/2026 · em equipe
